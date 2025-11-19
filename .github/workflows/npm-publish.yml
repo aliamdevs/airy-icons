@@ -29,12 +29,11 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
         registry-url: "https://registry.npmjs.org"
-    - run: npm install
-    - run: npm publish --access public
+    - run: npm install -g npm@latest
+    - run: npm ci
+    - run: npm publish
       if: github.event_name == 'push'
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        
+      
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v4
       with:
