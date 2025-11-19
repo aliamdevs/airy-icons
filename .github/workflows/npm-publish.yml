@@ -29,7 +29,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
         registry-url: "https://registry.npmjs.org"
-    
+    - run: npm install
     - run: npm publish --access public
       if: github.event_name == 'push'
       env:
