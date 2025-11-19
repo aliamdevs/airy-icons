@@ -29,8 +29,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
         registry-url: "https://registry.npmjs.org"
-    - run: npm ci
-    - run: npm run build
     
     - run: npm publish --access public
       if: github.event_name == 'push'
