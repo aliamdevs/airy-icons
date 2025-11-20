@@ -13,6 +13,7 @@
                     column-gap: 30px;
                     padding: 20px;
                     row-gap: 20px;
+                    background-color : red;
                 }
 
                 .thething i {
@@ -36,6 +37,7 @@
                     }
                 }
             </style>
+            
             <div class="thething">
                 <i class="airy-add-circle"></i>
                 <i class="airy-add"></i>
