@@ -46,12 +46,51 @@ Examples :
 ## Icons Name Table
 Just Use These After `airy-` & Put Them To Classes:
 
-|#| Outline Icons  | Filled Icons | Emojis |
-|-| ---------- | ---------- | ---------------- |
-|1| `Content`  | `Content` | `Content` |
-|2| `Content`  | `Content` | `Content` |
-|3| `Content`  | `Content` | `Content` |
-|4| `Content`  | `Content` | `Content` |
-|5| `Content`  | `Content` | `Content` |
-|6| `Content`  | `Content` | `Content` |
+|#| Outline Icons  | Filled Icons | Emojis |#| Outline Icons  | Filled Icons | Emojis |
+|-| -------------- | ------------ | ------ |-| -------------- | ------------ | ------ |
+|1| `add-circle`  | `Deploying` | `Deploying` |2| `add`  | `Deploying` | `Deploying` |
+|3| `arrow-up-circle`  | `Deploying` | `Deploying` |4| `arrow-up`  | `Deploying` | `Deploying` |
+|5| `arrow-down-circle`  | `Deploying` | `Deploying` |6| `arrow-down`  | `Deploying` | `Deploying` |
+|7| `arrow-left-circle`  | `Deploying` | `Deploying` |8| `arrow-left`  | `Deploying` | `Deploying` |
+|9| `arrow-right-circle`  | `Deploying` | `Deploying` |10| `arrow-right-circle`  | `Deploying` | `Deploying` |
+|11| `bag`  | `Deploying` | `Deploying` |12| `bell`  | `Deploying` | `Deploying` |
+|13| `block`  | `Deploying` | `Deploying` |14| `bookmark`  | `Deploying` | `Deploying` |
+|15| `calendar`  | `Deploying` | `Deploying` |16| `camera`  | `Deploying` | `Deploying` |
+|17| `card`  | `Deploying` | `Deploying` |18| `cart`  | `Deploying` | `Deploying` |
+|19| `chevron-up`  | `Deploying` | `Deploying` |20| `chevron-down`  | `Deploying` | `Deploying` |
+|21| `chevron-left`  | `Deploying` | `Deploying` |22| `chevron-right`  | `Deploying` | `Deploying` |
+|23| `emphasis-circle`  | `Deploying` | `Deploying` |24| `emphasis`  | `Deploying` | `Deploying` |
+|25| `help-circle`  | `Deploying` | `Deploying` |26| `help`  | `Deploying` | `Deploying` |
+|27| `info-circle`  | `Deploying` | `Deploying` |28| `info`  | `Deploying` | `Deploying` |
+|29| `clock`  | `Deploying` | `Deploying` |30| `compass`  | `Deploying` | `Deploying` |
+|31| `data-shell`  | `Deploying` | `Deploying` |32| `document`  | `Deploying` | `Deploying` |
+|33| `edit`  | `Deploying` | `Deploying` |34| `folder-open`  | `Deploying` | `Deploying` |
+|35| `folder`  | `Deploying` | `Deploying` |36| `grid`  | `Deploying` | `Deploying` |
+|37| `half-star`  | `Deploying` | `Deploying` |38| `heart`  | `Deploying` | `Deploying` |
+|39| `hide`  | `Deploying` | `Deploying` |40| `input`  | `Deploying` | `Deploying` |
+|41| `location`  | `Deploying` | `Deploying` |42| `lock`  | `Deploying` | `Deploying` |
+|43| `login`  | `Deploying` | `Deploying` |44| `logout`  | `Deploying` | `Deploying` |
+|45| `mail`  | `Deploying` | `Deploying` |46| `menu-vertical`  | `Deploying` | `Deploying` |
+|47| `menu`  | `Deploying` | `Deploying` |48| `message`  | `Deploying` | `Deploying` |
+|49| `mic-mute`  | `Deploying` | `Deploying` |50| `mic`  | `Deploying` | `Deploying` |
+|51| `music`  | `Deploying` | `Deploying` |52| `mute`  | `Deploying` | `Deploying` |
+|53| `pause`  | `Deploying` | `Deploying` |54| `stop`  | `Deploying` | `Deploying` |
+|55| `paint`  | `Deploying` | `Deploying` |56| `phone`  | `Deploying` | `Deploying` |
+|57| `picture`  | `Deploying` | `Deploying` |58| `power`  | `Deploying` | `Deploying` |
+|59| `redo`  | `Deploying` | `Deploying` |60| `refresh`  | `Deploying` | `Deploying` |
+|61| `repeat`  | `Deploying` | `Deploying` |62| `search`  | `Deploying` | `Deploying` |
+|63| `send`  | `Deploying` | `Deploying` |64| `setting`  | `Deploying` | `Deploying` |
+|65| `share`  | `Deploying` | `Deploying` |66| `show`  | `Deploying` | `Deploying` |
+|67| `shuffle`  | `Deploying` | `Deploying` |68| `sort`  | `Deploying` | `Deploying` |
+|69| `substract-circle`  | `Deploying` | `Deploying` |70| `star`  | `Deploying` | `Deploying` |
+|71| `tag`  | `Deploying` | `Deploying` |72| `trash`  | `Deploying` | `Deploying` |
+|73| `undo`  | `Deploying` | `Deploying` |74| `unlock`  | `Deploying` | `Deploying` |
+|75| `upload`  | `Deploying` | `Deploying` |76| `user`  | `Deploying` | `Deploying` |
+|77| `users`  | `Deploying` | `Deploying` |78| `volume`  | `Deploying` | `Deploying` |
+|79| `substract`  | `Deploying` | `Deploying` |80| `close-circle`  | `Deploying` | `Deploying` |
+|81| `close`  | `Deploying` | `Deploying` |82| `zoom-in`  | `Deploying` | `Deploying` |
+|83| `zoom-out`  | `Deploying` | `Deploying` |84| `play`  | `Deploying` | `Deploying` |
+|85| `link`  | `Deploying` | `Deploying` |86|   |  |  |
+
+
 
