@@ -1,0 +1,133 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/aliamdevs/airy-icons@latest/css/airy.css" />
+            <style>
+                .thething {
+                    width: 100%;
+                    display: flex;
+                    justify-content: space-around;
+                    align-items: center;
+                    flex-wrap: wrap;
+                    box-sizing: border-box;
+                    column-gap: 30px;
+                    padding: 20px;
+                    row-gap: 20px;
+                    background-color: black;
+                }
+
+                .thething i {
+                    font-size: 30px;
+                    color: white;
+                    opacity: 0.5;
+                    animation: ZOOMIN_OUT 2s ease-in-out infinite;
+                }
+
+                @keyframes ZOOMIN_OUT {
+                    0% {
+                        scale: 1;
+                    }
+
+                    50% {
+                        scale: 1.3;
+                    }
+
+                    100% {
+                        scale: 1;
+                    }
+                }
+            </style>
+            <div class="thething">
+                <i class="airy-add-circle"></i>
+                <i class="airy-add"></i>
+                <i class="airy-arrow-up"></i>
+                <i class="airy-arrow-up-circle"></i>
+                <i class="airy-arrow-down"></i>
+                <i class="airy-arrow-down-circle"></i>
+                <i class="airy-arrow-right"></i>
+                <i class="airy-arrow-right-circle"></i>
+                <i class="airy-arrow-left"></i>
+                <i class="airy-arrow-left-circle"></i>
+                <i class="airy-bag"></i>
+                <i class="airy-bell"></i>
+                <i class="airy-block"></i>
+                <i class="airy-bookmark"></i>
+                <i class="airy-calendar"></i>
+                <i class="airy-camera"></i>
+                <i class="airy-card"></i>
+                <i class="airy-cart"></i>
+                <i class="airy-chevron-up"></i>
+                <i class="airy-chevron-down"></i>
+                <i class="airy-chevron-right"></i>
+                <i class="airy-chevron-left"></i>
+                <i class="airy-help-circle"></i>
+                <i class="airy-emphasis-circle"></i>
+                <i class="airy-info-circle"></i>
+                <i class="airy-clock"></i>
+                <i class="airy-compass"></i>
+                <i class="airy-data-shell"></i>
+                <i class="airy-document"></i>
+                <i class="airy-done"></i>
+                <i class="airy-download"></i>
+                <i class="airy-edit"></i>
+                <i class="airy-emphasis"></i>
+                <i class="airy-folder-open"></i>
+                <i class="airy-folder"></i>
+                <i class="airy-grid"></i>
+                <i class="airy-half-star"></i>
+                <i class="airy-heart"></i>
+                <i class="airy-help"></i>
+                <i class="airy-hide"></i>
+                <i class="airy-info"></i>
+                <i class="airy-info"></i>
+                <i class="airy-input"></i>
+                <i class="airy-location"></i>
+                <i class="airy-lock"></i>
+                <i class="airy-login"></i>
+                <i class="airy-logout"></i>
+                <i class="airy-mail"></i>
+                <i class="airy-menu-vertical"></i>
+                <i class="airy-menu"></i>
+                <i class="airy-message"></i>
+                <i class="airy-mic-mute"></i>
+                <i class="airy-mic"></i>
+                <i class="airy-music"></i>
+                <i class="airy-mute"></i>
+                <i class="airy-home"></i>
+                <i class="airy-pause"></i>
+                <i class="airy-stop"></i>
+                <i class="airy-paint"></i>
+                <i class="airy-phone"></i>
+                <i class="airy-picture"></i>
+                <i class="airy-power"></i>
+                <i class="airy-redo"></i>
+                <i class="airy-refresh"></i>
+                <i class="airy-repeat"></i>
+                <i class="airy-search"></i>
+                <i class="airy-send"></i>
+                <i class="airy-setting"></i>
+                <i class="airy-share"></i>
+                <i class="airy-show"></i>
+                <i class="airy-shuffle"></i>
+                <i class="airy-sort"></i>
+                <i class="airy-substract-circle"></i>
+                <i class="airy-star"></i>
+                <i class="airy-tag"></i>
+                <i class="airy-trash"></i>
+                <i class="airy-undo"></i>
+                <i class="airy-unlock"></i>
+                <i class="airy-upload"></i>
+                <i class="airy-user"></i>
+                <i class="airy-users"></i>
+                <i class="airy-volume"></i>
+                <i class="airy-substract"></i>
+                <i class="airy-close-circle"></i>
+                <i class="airy-close"></i>
+                <i class="airy-zoom-in"></i>
+                <i class="airy-zoom-out"></i>
+                <i class="airy-play"></i>
+                <i class="airy-link"></i>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
