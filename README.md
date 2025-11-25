@@ -11,10 +11,12 @@
 
 #### Install Using CDNs :
 
-``` 
+```
+// Compressed (min.css)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/aliamdevs/airy-icons@latest/css/airy.min.css" />
 ```
-``` 
+```
+// Uncompressed
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/aliamdevs/airy-icons@latest/css/airy.css" />
 ```
 
@@ -23,15 +25,13 @@
 ```
 npm i @aliamdevs/airy-icons
 ```
-**Then Just Import The Package :**
 ```
+// In Your Javascript File
 import '@aliamdevs/airy-icons'
 ```
 
 #### Install As A Font & Use It From Font Library :
-
-**Just Download TTF File And Use It.**\
-[See Releases.](https://github.com/aliamdevs/airy-icons/releases)
+.ttf .woff .eot .otf -> [See Releases.](https://github.com/aliamdevs/airy-icons/releases)
 
 ## Usage
 
