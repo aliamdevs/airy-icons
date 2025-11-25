@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'airyoutline';
+    font-family: 'airyicons';
     src: url('../fonts/airy.eot');
     src: url('../fonts/airy.eot?#iefix') format('embedded-opentype'),
         url('../fonts/airy.woff') format('woff'),
@@ -9,7 +9,7 @@
 }
 
 [class*='airy-']:before {
-    font-family: 'airyoutline';
+    font-family: 'airyicons';
     content: '\0058';
     font-style: normal;
     font-weight: normal;
@@ -130,7 +130,7 @@
     content: '\0062';
 }
 
-.airy-document:before {
+.airy-file:before {
     content: '\0063';
 }
 
@@ -282,12 +282,17 @@
     content: '\0024';
 }
 
+.airy-setting:before,
 .airy-settings:before {
     content: '\0025';
 }
 
 .airy-share:before {
     content: '\0026';
+}
+
+.airy-reply:before {
+    content: '\0080';
 }
 
 .airy-show:before {
@@ -338,7 +343,7 @@
     content: '\005d';
 }
 
-.airy-volume:before {
+.airy-volume-up:before {
     content: '\005e';
 }
 
@@ -367,5 +372,264 @@
 }
 
 .airy-link:before {
+    content: '\0040';
+}
+
+
+/* filled code :*/
+
+.airy-add-solid:before,
+.airy-add-circle-solid:before {
+    content: '\003a';
+}
+
+.airy-bookmark-solid:before {
+    content: '\003b';
+}
+
+.airy-arrow-down-solid:before,
+.airy-arrow-down-circle-solid:before {
+    content: '\003c';
+}
+
+.airy-arrow-left-solid:before,
+.airy-arrow-left-circle-solid:before {
+    content: '\003d';
+}
+
+.airy-arrow-right-solid:before,
+.airy-arrow-right-circle-solid:before {
+    content: '\003e';
+}
+
+.airy-arrow-up-solid:before,
+.airy-arrow-up-circle-solid:before {
     content: '\003f';
+}
+
+.airy-block-solid:before {
+    content: '\00a1';
+}
+
+.airy-calendar-solid:before {
+    content: '\00a2';
+}
+
+.airy-camera-solid:before {
+    content: '\00a3';
+}
+
+.airy-card-solid:before {
+    content: '\00a4';
+}
+
+.airy-emphasis-solid:before,
+.airy-emphasis-circle-solid:before {
+    content: '\00a5';
+}
+
+.airy-help-solid:before,
+.airy-help-circle-solid:before {
+    content: '\00a6';
+}
+
+.airy-clock-solid:before {
+    content: '\00a7';
+}
+
+.airy-compass-solid:before {
+    content: '\00a8';
+}
+
+.airy-data-shell-solid:before {
+    content: '\00a9';
+}
+
+.airy-edit-solid:before {
+    content: '\00aa';
+}
+
+.airy-folder-solid:before {
+    content: '\00ab';
+}
+
+.airy-folder-open-solid:before {
+    content: '\00ac';
+}
+
+.airy-volume-down:before {
+    content: '\00ae';
+}
+
+.airy-home-solid:before {
+    content: '\00af';
+}
+
+.airy-location-solid:before {
+    content: '\00b0';
+}
+
+.airy-lock-solid:before {
+    content: '\00b1';
+}
+
+.airy-login-solid:before {
+    content: '\00d8';
+}
+
+.airy-logout-solid:before {
+    content: '\00d9';
+}
+
+.airy-mail-solid:before {
+    content: '\00b4';
+}
+
+.airy-mute-solid:before {
+    content: '\00b5';
+}
+
+.airy-message-solid:before {
+    content: '\00b6';
+}
+
+.airy-mic-solid:before {
+    content: '\00b7';
+}
+
+.airy-music-solid:before {
+    content: '\00b8';
+}
+
+.airy-bag-solid:before {
+    content: '\00ba';
+}
+
+.airy-bell-solid:before {
+    content: '\00bb';
+}
+
+.airy-cart-solid:before {
+    content: '\00bc';
+}
+
+.airy-file-solid:before {
+    content: '\00bd';
+}
+
+.airy-grid-solid:before {
+    content: '\00be';
+}
+
+.airy-heart-solid:before {
+    content: '\00bf';
+}
+
+.airy-hide-solid:before {
+    content: '\00c0';
+}
+
+.airy-mic-mute-solid:before {
+    content: '\00c1';
+}
+
+.airy-picture-solid:before {
+    content: '\00c2';
+}
+
+.airy-settings-solid:before,
+.airy-setting-solid:before {
+    content: '\00c3';
+}
+
+.airy-share-solid:before {
+    content: '\00c4';
+}
+
+.airy-reply-solid:before {
+    content: '\00c5';
+}
+
+.airy-user-solid:before {
+    content: '\00c6';
+}
+
+.airy-users-solid:before {
+    content: '\00c7';
+}
+
+.airy-paint-solid:before {
+    content: '\00c8';
+}
+
+.airy-phone-solid:before {
+    content: '\00c9';
+}
+
+.airy-play-solid:before {
+    content: '\00ca';
+}
+
+.airy-send-solid:before {
+    content: '\00cb';
+}
+
+.airy-show-solid:before {
+    content: '\00cc';
+}
+
+.airy-star-solid:before {
+    content: '\00cd';
+}
+
+.airy-substract-solid:before,
+.airy-substract-circle-solid:before {
+    content: '\00ce';
+}
+
+.airy-stop-solid:before {
+    content: '\00cf';
+}
+
+.airy-tag-solid:before {
+    content: '\00d0';
+}
+
+.airy-trash-solid:before {
+    content: '\00d1';
+}
+
+.airy-unlock-solid:before {
+    content: '\00d2';
+}
+
+.airy-volume-up-solid:before {
+    content: '\00d3';
+}
+
+.airy-close-circle-solid:before,
+.airy-close-solid:before {
+    content: '\00d4';
+}
+
+.airy-volume-down-solid:before {
+    content: '\00d5';
+}
+
+.airy-zoom-in-solid:before {
+    content: '\00d6';
+}
+
+.airy-zoom-out-solid:before {
+    content: '\00d7';
+}
+
+.airy-info-solid:before,
+.airy-info-circle-solid:before {
+    content: '\00f0';
+}
+
+
+.airy-github:before {
+    content: '\00ee';
 }

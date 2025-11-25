@@ -1,6 +1,6 @@
 {
   "name": "@aliamdevs/airy-icons",
-  "version": "1.0.148",
+  "version": "2.1.157",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
