@@ -1,6 +1,7 @@
-# Airy-Icons [![](https://img.shields.io/badge/CSS%20Library-2b2b2b)](#) [![](https://img.shields.io/badge/~%20>%20300%20KB-2b2b2b)](#) [![](https://img.shields.io/badge/v2.1.163-ff4769)](#)
+# Airy-Icons [![](https://img.shields.io/badge/CSS%20Library-2b2b2b)](#) [![](https://img.shields.io/badge/~%20>%20300%20KB-2b2b2b)](#) [![](https://img.shields.io/badge/v2.1.164-ff4769)](#)
 
 [![](https://img.shields.io/badge/Inspired%20By%20Wave%20Oval%20Interface%20Icons%20Collection-2b2b2b?style=for-the-badge&logo=adblock&logoColor=white)](https://www.svgrepo.com/collection/wave-oval-interface-icons/)
+[![](https://img.shields.io/badge/Effects%20Classes%20Added.-2b2b2b?style=for-the-badge&logo=adblock&logoColor=white)](https://www.svgrepo.com/collection/wave-oval-interface-icons/)
 
 ## Introduction
 
@@ -46,6 +47,20 @@ Examples :
 <i class="airy-picture"></i>
 <i class="airy-data-shell"></i>
 ```
+
+## Effects
+
+#### You Can Use Effects By Class Name :
+Example :
+```
+<i class="airy-home airy-effect-bevel"></i>
+<i class="airy-home airy-effect-bevel"></i>
+<i class="airy-home airy-effect-bevel"></i>
+```
+Effects Name Table :
+| #   | Effect Name            | Class Name              |
+| --- | ---------------------- | ----------------------- |
+| 1   | Bevel                  | `airy-effect-bevel`     |
 
 ## Icons Name Table
 Just Use These After `airy-` & Put Them To Classes:
