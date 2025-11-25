@@ -1,6 +1,6 @@
 {
   "name": "@aliamdevs/airy-icons",
-  "version": "2.1.159",
+  "version": "2.1.163",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,27 @@
     "url": "https://github.com/aliamdevs/airy-icons/issues"
   },
   "homepage": "https://github.com/aliamdevs/airy-icons#readme",
+  "keywords": [
+    "icons",
+    "css-icons",
+    "icon-library",
+    "icon-pack",
+    "lightweight-icons",
+    "css-only-icons",
+    "font-icons",
+    "ui-icons",
+    "web-icons",
+    "minimal-icons",
+    "airy-icons",
+    "svg-alternative",
+    "design-system",
+    "frontend-icons",
+    "ui-components",
+    "html-icons",
+    "simple-icons",
+    "class-based-icons",
+    "responsive-icons",
+    "icon-set"
+  ],
   "description": "Hi I'm Ali & This Project is 150+ Lite CSS Icons With An Incredible Size That Can Be Used & Controlled Just By Class Names."
 }
