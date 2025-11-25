@@ -1,4 +1,4 @@
-# Airy-Icons [![](https://img.shields.io/badge/CSS%20Library-2b2b2b)](#) [![](https://img.shields.io/badge/Less%20Than%20300%20KB-2b2b2b)](#) [![](https://img.shields.io/badge/v1.0.148-ff4769)](#)
+# Airy-Icons [![](https://img.shields.io/badge/CSS%20Library-2b2b2b)](#) [![](https://img.shields.io/badge/~%20>%20300%20KB-2b2b2b)](#) [![](https://img.shields.io/badge/v2.1.158-ff4769)](#)
 
 [![](https://img.shields.io/badge/Inspired%20By%20Wave%20Oval%20Interface%20Icons%20Collection-2b2b2b?style=for-the-badge&logo=adblock&logoColor=white)](https://www.svgrepo.com/collection/wave-oval-interface-icons/)
 
@@ -23,11 +23,15 @@
 ```
 npm i @aliamdevs/airy-icons
 ```
-#### Then Just Import The Package :
-
+**Then Just Import The Package :**
 ```
 import '@aliamdevs/airy-icons'
 ```
+
+#### Install As A Font & Use It From Font Library :
+
+**Just Download TTF File And Use It.**\
+[See Releases.](https://github.com/aliamdevs/airy-icons/releases)
 
 ## Usage
 

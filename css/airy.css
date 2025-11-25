@@ -633,3 +633,7 @@
 .airy-github:before {
     content: '\00ee';
 }
+
+.airy-npm:before {
+    content: '\00ed';
+}
